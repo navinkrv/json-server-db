@@ -1,0 +1,20 @@
+{
+    "botData":[
+        {
+            "id":1,
+            "prompt":"hi",
+            "reply":"hello!"
+        },
+        {
+            "id":2,
+            "prompt":"how are you",
+            "reply":"fine!, How do you do"
+        },
+        {
+            "id":3,
+            "prompt":"what is your name?",
+            "reply":"I'm bot"
+        }
+        
+    ]
+}
